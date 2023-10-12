@@ -1,0 +1,20 @@
+﻿  Multipletry.cpp
+C:\projects 2023\multipleObjet try\multipleObjet try\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(779,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(839,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(852,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(877,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(889,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(889,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(901,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(901,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(940,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(956,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(1040,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(1041,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(1045,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(1046,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(1048,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(1049,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\projects 2023\multipleObjet try\multipleObjet try\Multipletry.cpp(1058,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  multipleObjet try.vcxproj -> C:\projects 2023\multipleObjet try\Debug\multipleObjet try.exe
